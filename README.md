@@ -45,6 +45,7 @@ A collection of LeetCode questions
 | [0646-maximum-length-of-pair-chain](https://github.com/udita1294/DSA_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/udita1294/DSA_Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/udita1294/DSA_Practice/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/udita1294/DSA_Practice/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/udita1294/DSA_Practice/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/udita1294/DSA_Practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/udita1294/DSA_Practice/tree/master/0877-stone-game) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/udita1294/DSA_Practice/tree/master/0200-number-of-islands) |
+| [0835-image-overlap](https://github.com/udita1294/DSA_Practice/tree/master/0835-image-overlap) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/udita1294/DSA_Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/udita1294/DSA_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
