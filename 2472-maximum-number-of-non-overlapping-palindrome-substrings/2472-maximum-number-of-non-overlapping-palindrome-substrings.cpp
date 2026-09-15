@@ -1,35 +1,38 @@
 class Solution {
 public:
+    int t[2001][2001];
+    int n;
+    bool isPalindrome(string &s, int i, int j){
+        while(i < j){
+            if(s[i] != s[j]) return false;
+            i++;
+            j--;
+        }
+        return true;
+    }
+    int solve(string &s,int k,int i,int j){
+        if(i >= n || j >= n) return 0;
+
+        if(t[i][j] != -1){
+            return t[i][j];
+        }
+
+        if(isPalindrome(s,i,j)){
+            int takeIt = 1 + solve(s,k,j+1,j+k);
+            int grow = solve(s,k,i,j+1);
+            int slide = solve(s,k,i+1,j+1);
+
+            return t[i][j] =  max({takeIt,grow,slide});
+        }
+        int grow = solve(s,k,i,j+1);
+        int slide = solve(s,k,i+1,j+1);
+
+        return t[i][j] =  max(grow,slide);
+    }
     int maxPalindromes(string s, int k) {
-        int n = s.size();
-
-        // pal[i][j] = true if s[i...j] is a palindrome
-        vector<vector<bool>> pal(n, vector<bool>(n, false));
-
-        for (int i = n - 1; i >= 0; i--) {
-            for (int j = i; j < n; j++) {
-                if (s[i] == s[j] && (j - i < 2 || pal[i + 1][j - 1])) {
-                    pal[i][j] = true;
-                }
-            }
-        }
-
-        // dp[i] = maximum number of valid palindromes
-        // that can be selected from s[0...i-1]
-        vector<int> dp(n + 1, 0);
-
-        for (int i = 1; i <= n; i++) {
-            // Don't use a palindrome ending at i-1
-            dp[i] = dp[i - 1];
-
-            // Try every palindrome ending at i-1
-            for (int j = 0; j <= i - k; j++) {
-                if (pal[j][i - 1]) {
-                    dp[i] = max(dp[i], dp[j] + 1);
-                }
-            }
-        }
-
-        return dp[n];
+        n = s.size();
+        memset(t,-1,sizeof(t));
+        if(k == 1) return n;
+        return solve(s,k,0,k-1);
     }
 };
