@@ -432,6 +432,7 @@ A collection of LeetCode questions
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/udita1294/DSA_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udita1294/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/udita1294/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/udita1294/DSA_Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/udita1294/DSA_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/udita1294/DSA_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/udita1294/DSA_Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/udita1294/DSA_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/udita1294/DSA_Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/udita1294/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search Tree
 |  |
