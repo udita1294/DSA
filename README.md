@@ -68,6 +68,7 @@ A collection of LeetCode questions
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/udita1294/DSA_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/udita1294/DSA_Practice/tree/master/1563-stone-game-v) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/udita1294/DSA_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udita1294/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1833-maximum-ice-cream-bars](https://github.com/udita1294/DSA_Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/udita1294/DSA_Practice/tree/master/1834-single-threaded-cpu) |
 | [1872-stone-game-viii](https://github.com/udita1294/DSA_Practice/tree/master/1872-stone-game-viii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/udita1294/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/udita1294/DSA_Practice/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/udita1294/DSA_Practice/tree/master/1657-determine-if-two-strings-are-close) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udita1294/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udita1294/DSA_Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2405-optimal-partition-of-string](https://github.com/udita1294/DSA_Practice/tree/master/2405-optimal-partition-of-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/udita1294/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/udita1294/DSA_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/udita1294/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/udita1294/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udita1294/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/udita1294/DSA_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/udita1294/DSA_Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
@@ -220,6 +223,7 @@ A collection of LeetCode questions
 | [1140-stone-game-ii](https://github.com/udita1294/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/udita1294/DSA_Practice/tree/master/1310-xor-queries-of-a-subarray) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/udita1294/DSA_Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udita1294/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/udita1294/DSA_Practice/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/udita1294/DSA_Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/udita1294/DSA_Practice/tree/master/3904-smallest-stable-index-ii) |
@@ -449,6 +453,7 @@ A collection of LeetCode questions
 | [0424-longest-repeating-character-replacement](https://github.com/udita1294/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/udita1294/DSA_Practice/tree/master/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/udita1294/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udita1294/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/udita1294/DSA_Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/udita1294/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/udita1294/DSA_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
