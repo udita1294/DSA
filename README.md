@@ -114,6 +114,7 @@ A collection of LeetCode questions
 | [0424-longest-repeating-character-replacement](https://github.com/udita1294/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/udita1294/DSA_Practice/tree/master/0567-permutation-in-string) |
 | [1048-longest-string-chain](https://github.com/udita1294/DSA_Practice/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/udita1294/DSA_Practice/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/udita1294/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/udita1294/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/udita1294/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions
 | [0948-bag-of-tokens](https://github.com/udita1294/DSA_Practice/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/udita1294/DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1048-longest-string-chain](https://github.com/udita1294/DSA_Practice/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/udita1294/DSA_Practice/tree/master/1096-brace-expansion-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/udita1294/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/udita1294/DSA_Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/udita1294/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions
 | [0200-number-of-islands](https://github.com/udita1294/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/udita1294/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/udita1294/DSA_Practice/tree/master/0322-coin-change) |
+| [1096-brace-expansion-ii](https://github.com/udita1294/DSA_Practice/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/udita1294/DSA_Practice/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/udita1294/DSA_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Heap (Priority Queue)
@@ -425,6 +428,7 @@ A collection of LeetCode questions
 | [0940-distinct-subsequences-ii](https://github.com/udita1294/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/udita1294/DSA_Practice/tree/master/1048-longest-string-chain) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/udita1294/DSA_Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1096-brace-expansion-ii](https://github.com/udita1294/DSA_Practice/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/udita1294/DSA_Practice/tree/master/1106-parsing-a-boolean-expression) |
 | [1328-break-a-palindrome](https://github.com/udita1294/DSA_Practice/tree/master/1328-break-a-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/udita1294/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -495,6 +499,7 @@ A collection of LeetCode questions
 | [0155-min-stack](https://github.com/udita1294/DSA_Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/udita1294/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/udita1294/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
+| [1096-brace-expansion-ii](https://github.com/udita1294/DSA_Practice/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/udita1294/DSA_Practice/tree/master/1106-parsing-a-boolean-expression) |
 ## Design
 |  |
@@ -632,6 +637,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/udita1294/DSA_Practice/tree/master/0131-palindrome-partitioning) |
+| [1096-brace-expansion-ii](https://github.com/udita1294/DSA_Practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/udita1294/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Indexed Tree
 |  |
