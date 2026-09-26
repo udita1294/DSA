@@ -69,6 +69,7 @@ A collection of LeetCode questions
 | [1563-stone-game-v](https://github.com/udita1294/DSA_Practice/tree/master/1563-stone-game-v) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/udita1294/DSA_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udita1294/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/udita1294/DSA_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/udita1294/DSA_Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/udita1294/DSA_Practice/tree/master/1834-single-threaded-cpu) |
 | [1872-stone-game-viii](https://github.com/udita1294/DSA_Practice/tree/master/1872-stone-game-viii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/udita1294/DSA_Practice/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/udita1294/DSA_Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/udita1294/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/udita1294/DSA_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udita1294/DSA_Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2405-optimal-partition-of-string](https://github.com/udita1294/DSA_Practice/tree/master/2405-optimal-partition-of-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/udita1294/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/udita1294/DSA_Practice/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/udita1294/DSA_Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/udita1294/DSA_Practice/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/udita1294/DSA_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/udita1294/DSA_Practice/tree/master/1927-sum-game) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/udita1294/DSA_Practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udita1294/DSA_Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
