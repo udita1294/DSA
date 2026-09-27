@@ -435,6 +435,7 @@ A collection of LeetCode questions
 | [1071-greatest-common-divisor-of-strings](https://github.com/udita1294/DSA_Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/udita1294/DSA_Practice/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/udita1294/DSA_Practice/tree/master/1106-parsing-a-boolean-expression) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udita1294/DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1328-break-a-palindrome](https://github.com/udita1294/DSA_Practice/tree/master/1328-break-a-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/udita1294/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/udita1294/DSA_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions
 | [0232-implement-queue-using-stacks](https://github.com/udita1294/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [1096-brace-expansion-ii](https://github.com/udita1294/DSA_Practice/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/udita1294/DSA_Practice/tree/master/1106-parsing-a-boolean-expression) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udita1294/DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -683,4 +685,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/udita1294/DSA_Practice/tree/master/0042-trapping-rain-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udita1294/DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
