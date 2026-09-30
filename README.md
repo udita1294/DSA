@@ -438,6 +438,7 @@ A collection of LeetCode questions
 | [1071-greatest-common-divisor-of-strings](https://github.com/udita1294/DSA_Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/udita1294/DSA_Practice/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/udita1294/DSA_Practice/tree/master/1106-parsing-a-boolean-expression) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/udita1294/DSA_Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udita1294/DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1328-break-a-palindrome](https://github.com/udita1294/DSA_Practice/tree/master/1328-break-a-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/udita1294/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions
 | [0232-implement-queue-using-stacks](https://github.com/udita1294/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [1096-brace-expansion-ii](https://github.com/udita1294/DSA_Practice/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/udita1294/DSA_Practice/tree/master/1106-parsing-a-boolean-expression) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/udita1294/DSA_Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udita1294/DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/udita1294/DSA_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -693,6 +695,7 @@ A collection of LeetCode questions
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/udita1294/DSA_Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udita1294/DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/udita1294/DSA_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/udita1294/DSA_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
