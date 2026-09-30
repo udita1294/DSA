@@ -1,29 +1,24 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-
-        vector<int> freq(26, 0);
-
-        int left = 0;
-        int maxFreq = 0;
+        int n = s.size();
+        unordered_set<char>st(s.begin(),s.end());
         int ans = 0;
-
-        for (int right = 0; right < s.size(); right++) {
-
-            freq[s[right] - 'A']++;
-
-            // Maximum frequency of any character in the current window
-            maxFreq = max(maxFreq, freq[s[right] - 'A']);
-
-            // If more than k replacements are needed, shrink the window
-            while ((right - left + 1) - maxFreq > k) {
-                freq[s[left] - 'A']--;
-                left++;
+        for(char c : st){
+            int count =0,l=0;
+            for(int r=0;r<n;r++){
+                if(s[r] == c){
+                    count++;
+                }
+                while((r-l+1) - count > k){
+                if(s[l] == c){
+                    count--;
+                }
+                l++;
             }
-
-            ans = max(ans, right - left + 1);
+            ans = max(ans,r-l+1);
+            }
         }
-
         return ans;
     }
 };
