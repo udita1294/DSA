@@ -1,32 +1,25 @@
-void parenthesis(int n ,int left ,int right ,vector<string>&ans ,string &temp){
-    if(left==n && right==n){
-        ans.push_back(temp);
-        return;
-    }
-
-    // LEFT BRACKET
-    if(left<n){
-        temp.push_back('(');
-        parenthesis(n ,left+1 ,right ,ans ,temp);
-        temp.pop_back();
-    }
-
-    // RIGHT BRACKET
-    if(right<left){
-        temp.push_back(')');
-        parenthesis(n ,left ,right+1 ,ans ,temp);
-        temp.pop_back();
-    }
-
-}
-
 class Solution {
 public:
+    vector<string> solve(int n,int open, int closed,vector<string>&result, string &temp){
+        if(open == n && closed == n){
+            result.push_back(temp);
+        }
+        if(open < n){
+            temp.push_back('(');
+            solve(n,open+1,closed,result,temp);
+            temp.pop_back();
+        }
+        if(closed < open){
+            temp.push_back(')');
+            solve(n,open,closed+1,result,temp);
+            temp.pop_back();
+        }
+        return result;
+    }
     vector<string> generateParenthesis(int n) {
-        vector<string>ans;
-        string temp;
-        parenthesis(n,0,0,ans,temp);
+        vector<string>result;
+        string temp="";
+        return solve(n,0,0,result,temp);
 
-        return ans;
     }
 };
