@@ -31,6 +31,7 @@ A collection of LeetCode questions
 | [0209-minimum-size-subarray-sum](https://github.com/udita1294/DSA_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/udita1294/DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/udita1294/DSA_Practice/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/udita1294/DSA_Practice/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/udita1294/DSA_Practice/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/udita1294/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/udita1294/DSA_Practice/tree/master/0312-burst-balloons) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/udita1294/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/udita1294/DSA_Practice/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/udita1294/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1834-single-threaded-cpu](https://github.com/udita1294/DSA_Practice/tree/master/1834-single-threaded-cpu) |
 ## Depth-First Search
@@ -473,6 +475,7 @@ A collection of LeetCode questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/udita1294/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/udita1294/DSA_Practice/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/udita1294/DSA_Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/udita1294/DSA_Practice/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/udita1294/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/udita1294/DSA_Practice/tree/master/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/udita1294/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/udita1294/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/udita1294/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/udita1294/DSA_Practice/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/udita1294/DSA_Practice/tree/master/0649-dota2-senate) |
 ## Tree
 |  |
@@ -706,4 +710,12 @@ A collection of LeetCode questions
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udita1294/DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/udita1294/DSA_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/udita1294/DSA_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/udita1294/DSA_Practice/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/udita1294/DSA_Practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
