@@ -251,6 +251,7 @@ A collection of LeetCode questions
 | [0605-can-place-flowers](https://github.com/udita1294/DSA_Practice/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/udita1294/DSA_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/udita1294/DSA_Practice/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/udita1294/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/udita1294/DSA_Practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/udita1294/DSA_Practice/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/udita1294/DSA_Practice/tree/master/0948-bag-of-tokens) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions
 | [0486-predict-the-winner](https://github.com/udita1294/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0646-maximum-length-of-pair-chain](https://github.com/udita1294/DSA_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/udita1294/DSA_Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/udita1294/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/udita1294/DSA_Practice/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/udita1294/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/udita1294/DSA_Practice/tree/master/1048-longest-string-chain) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions
 | [0424-longest-repeating-character-replacement](https://github.com/udita1294/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/udita1294/DSA_Practice/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/udita1294/DSA_Practice/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/udita1294/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/udita1294/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/udita1294/DSA_Practice/tree/master/1048-longest-string-chain) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/udita1294/DSA_Practice/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions
 | [0155-min-stack](https://github.com/udita1294/DSA_Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/udita1294/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/udita1294/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/udita1294/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/udita1294/DSA_Practice/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/udita1294/DSA_Practice/tree/master/1106-parsing-a-boolean-expression) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/udita1294/DSA_Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -710,6 +714,7 @@ A collection of LeetCode questions
 | ------- |
 | [0022-generate-parentheses](https://github.com/udita1294/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/udita1294/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/udita1294/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/udita1294/DSA_Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udita1294/DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/udita1294/DSA_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
