@@ -86,6 +86,7 @@ A collection of LeetCode questions
 | [2333-minimum-sum-of-squared-difference](https://github.com/udita1294/DSA_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/udita1294/DSA_Practice/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/udita1294/DSA_Practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/udita1294/DSA_Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/udita1294/DSA_Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/udita1294/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/udita1294/DSA_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/udita1294/DSA_Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/udita1294/DSA_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/udita1294/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/udita1294/DSA_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
