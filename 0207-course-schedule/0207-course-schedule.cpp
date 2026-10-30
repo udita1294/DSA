@@ -1,39 +1,34 @@
 class Solution {
 public:
+// using dfs cycle detection
+    bool isCycle(vector<vector<int>>&adj,int u,vector<bool>&visited,vector<bool>&inRecursion){
+        visited[u] = true;
+        inRecursion[u] = true;
+        for(int &v : adj[u]){
+            if(!visited[v] && isCycle(adj,v,visited,inRecursion)){
+                return true;
+            }else if(inRecursion[v] == true){
+                return true;
+            }
+        }
+        inRecursion[u] = false;
+        return false;
+    }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         int n = prerequisites.size();
-        queue<int>q;
         vector<vector<int>>adj(numCourses);
+        vector<bool>visited(numCourses,false);
+        vector<bool>inRecursion(numCourses,false);
         for(int i=0;i<n;i++){
             adj[prerequisites[i][1]].push_back(prerequisites[i][0]);
         }
-        vector<int>indegree(numCourses,0);
-        for(int i=0;i<adj.size();i++){
-            for(int &v : adj[i]){
-                indegree[v]++;
-            }
-        }
-        int count = 0;
+
         for(int i=0;i<numCourses;i++){
-            if(indegree[i] == 0){
-                q.push(i);
-                count++;
+            if(!visited[i] && isCycle(adj,i,visited,inRecursion)){
+                //if cycle return false
+                return false;
             }
         }
-        while(!q.empty()){
-            int u = q.front();
-            q.pop();
-            for(int &v : adj[u]){
-                indegree[v]--;
-                if(indegree[v] == 0){
-                    q.push(v);
-                    count++;
-                }
-            }
-        }
-        if(count == numCourses){
-            return true;
-        }
-        return false;
+        return true;
     }
 };
