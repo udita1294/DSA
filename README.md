@@ -369,6 +369,7 @@ A collection of LeetCode questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/udita1294/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/udita1294/DSA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/udita1294/DSA_Practice/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/udita1294/DSA_Practice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/udita1294/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/udita1294/DSA_Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/udita1294/DSA_Practice/tree/master/0322-coin-change) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/udita1294/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/udita1294/DSA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/udita1294/DSA_Practice/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/udita1294/DSA_Practice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/udita1294/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/udita1294/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/udita1294/DSA_Practice/tree/master/0543-diameter-of-binary-tree) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/udita1294/DSA_Practice/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/udita1294/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/udita1294/DSA_Practice/tree/master/3310-remove-methods-from-project) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/udita1294/DSA_Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -834,4 +837,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/udita1294/DSA_Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/udita1294/DSA_Practice/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/udita1294/DSA_Practice/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
