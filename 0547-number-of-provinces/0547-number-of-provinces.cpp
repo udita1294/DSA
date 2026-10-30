@@ -1,10 +1,18 @@
 class Solution {
 public:
-    void DFS(vector<vector<int>>&adj,int u,vector<bool>&visited){
+    // Now using BFS
+    void BFS(vector<vector<int>>&adj,int u,vector<bool>&visited){
+        queue<int>q;
+        q.push(u);
         visited[u] = true;
-        for(int &v : adj[u]){
-            if(!visited[v]){
-                DFS(adj,v,visited);
+        while(!q.empty()){
+            int N = q.front();
+            q.pop();
+            for(int &v : adj[N]){
+                if(!visited[v]){
+                    q.push(v);
+                    visited[v] = true;
+                }
             }
         }
     }
@@ -23,7 +31,7 @@ public:
         }
         for(int i=0;i<n;i++){
             if(!visited[i]){
-                DFS(adj,i,visited);
+                BFS(adj,i,visited);
                 count++;
             }
         }
