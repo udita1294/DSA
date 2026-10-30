@@ -375,6 +375,7 @@ A collection of LeetCode questions
 | [0301-remove-invalid-parentheses](https://github.com/udita1294/DSA_Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/udita1294/DSA_Practice/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/udita1294/DSA_Practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/udita1294/DSA_Practice/tree/master/0785-is-graph-bipartite) |
 | [1096-brace-expansion-ii](https://github.com/udita1294/DSA_Practice/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/udita1294/DSA_Practice/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/udita1294/DSA_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions
 | [0230-kth-smallest-element-in-a-bst](https://github.com/udita1294/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/udita1294/DSA_Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/udita1294/DSA_Practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/udita1294/DSA_Practice/tree/master/0785-is-graph-bipartite) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/udita1294/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/udita1294/DSA_Practice/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/udita1294/DSA_Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions
 | ------- |
 | [0200-number-of-islands](https://github.com/udita1294/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/udita1294/DSA_Practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/udita1294/DSA_Practice/tree/master/0785-is-graph-bipartite) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/udita1294/DSA_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/udita1294/DSA_Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/udita1294/DSA_Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -743,6 +746,7 @@ A collection of LeetCode questions
 | [0207-course-schedule](https://github.com/udita1294/DSA_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/udita1294/DSA_Practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/udita1294/DSA_Practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/udita1294/DSA_Practice/tree/master/0785-is-graph-bipartite) |
 | [3310-remove-methods-from-project](https://github.com/udita1294/DSA_Practice/tree/master/3310-remove-methods-from-project) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/udita1294/DSA_Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
@@ -849,4 +853,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/udita1294/DSA_Practice/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/udita1294/DSA_Practice/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/udita1294/DSA_Practice/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
