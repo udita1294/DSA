@@ -57,6 +57,7 @@ A collection of LeetCode questions
 | [0948-bag-of-tokens](https://github.com/udita1294/DSA_Practice/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/udita1294/DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/udita1294/DSA_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/udita1294/DSA_Practice/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/udita1294/DSA_Practice/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/udita1294/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/udita1294/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions
 | [0547-number-of-provinces](https://github.com/udita1294/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/udita1294/DSA_Practice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/udita1294/DSA_Practice/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/udita1294/DSA_Practice/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/udita1294/DSA_Practice/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/udita1294/DSA_Practice/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/udita1294/DSA_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions
 | [0547-number-of-provinces](https://github.com/udita1294/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/udita1294/DSA_Practice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/udita1294/DSA_Practice/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/udita1294/DSA_Practice/tree/master/1020-number-of-enclaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/udita1294/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/udita1294/DSA_Practice/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/udita1294/DSA_Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions
 | [0200-number-of-islands](https://github.com/udita1294/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/udita1294/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/udita1294/DSA_Practice/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/udita1294/DSA_Practice/tree/master/1020-number-of-enclaves) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/udita1294/DSA_Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/udita1294/DSA_Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/udita1294/DSA_Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -428,6 +432,7 @@ A collection of LeetCode questions
 | [0200-number-of-islands](https://github.com/udita1294/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/udita1294/DSA_Practice/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/udita1294/DSA_Practice/tree/master/0835-image-overlap) |
+| [1020-number-of-enclaves](https://github.com/udita1294/DSA_Practice/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/udita1294/DSA_Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/udita1294/DSA_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/udita1294/DSA_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
