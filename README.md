@@ -41,6 +41,7 @@ A collection of LeetCode questions
 | [0368-largest-divisible-subset](https://github.com/udita1294/DSA_Practice/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/udita1294/DSA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/udita1294/DSA_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/udita1294/DSA_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/udita1294/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/udita1294/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/udita1294/DSA_Practice/tree/master/0605-can-place-flowers) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions
 | [0189-rotate-array](https://github.com/udita1294/DSA_Practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/udita1294/DSA_Practice/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/udita1294/DSA_Practice/tree/master/0368-largest-divisible-subset) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/udita1294/DSA_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/udita1294/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udita1294/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/udita1294/DSA_Practice/tree/master/0836-rectangle-overlap) |
