@@ -137,6 +137,7 @@ A collection of LeetCode questions
 | [3886-sum-of-sortable-integers](https://github.com/udita1294/DSA_Practice/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/udita1294/DSA_Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/udita1294/DSA_Practice/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/udita1294/DSA_Practice/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/udita1294/DSA_Practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions
 | [3718-smallest-missing-multiple-of-k](https://github.com/udita1294/DSA_Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/udita1294/DSA_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/udita1294/DSA_Practice/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/udita1294/DSA_Practice/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions
 | [2333-minimum-sum-of-squared-difference](https://github.com/udita1294/DSA_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/udita1294/DSA_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/udita1294/DSA_Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/udita1294/DSA_Practice/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -931,4 +934,16 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/udita1294/DSA_Practice/tree/master/0785-is-graph-bipartite) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/udita1294/DSA_Practice/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/udita1294/DSA_Practice/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/udita1294/DSA_Practice/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
